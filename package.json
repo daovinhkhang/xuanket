@@ -1,0 +1,12 @@
+{
+  "name": "xuanket-verify",
+  "version": "1.0.0",
+  "description": "Verification Landing Page",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve . -l $PORT"
+  },
+  "dependencies": {
+    "serve": "^14.2.0"
+  }
+}
