@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: xuanket-verify
+    env: static
+    buildCommand: ""
+    staticPublishPath: "./"
